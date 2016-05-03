@@ -35,7 +35,8 @@ public class ImageProcessingOCR {
 
 ```
 This is the result
-<iframe width="350" height="490" src="https://www.youtube.com/embed/TSycNzdO8bY" frameborder="0" allowfullscreen></iframe>
+[![Demo CampOCR](https://media.giphy.com/media/l0K45f3Oaxw7rmkgM/giphy.gif)](https://www.youtube.com/embed/TSycNzdO8bY)
+
 
 **Feature CampOCR**
 > - Image Processing OCR
