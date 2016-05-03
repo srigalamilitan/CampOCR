@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnProcesOCR"
+        android:title="Process OCR">
+    </item>
+    <item
+        android:id="@+id/mnCrop"
+        android:title="Croping">
+    </item>
+    <item
+        android:id="@+id/mnRotate"
+        android:title="Rotate">
+    </item>
+    <item
+        android:id="@+id/mnContras"
+        android:title="Contrass">
+
+        <menu>
+            <item
+                android:id="@+id/mnAddContras"
+                android:title="Contras ++">
+            </item>
+            <item
+                android:id="@+id/mnMinCotras"
+                android:title="Contras --">
+            </item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/mnBrightness"
+        android:title="Brightness">
+        <menu>
+            <item
+                android:id="@+id/mnAddBrightness"
+                android:title="Brightness ++">
+            </item>
+            <item
+                android:id="@+id/mnMinBrightness"
+                android:title="Brightness --">
+            </item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mnReset"
+        android:title="Reset">
+    </item>
+</menu>

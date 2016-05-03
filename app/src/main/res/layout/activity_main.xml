@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OCRActivity"
+    android:gravity="center_vertical|center_horizontal"
+    android:showDividers="middle|beginning|end">
+
+
+
+
+        <Button
+            android:id="@+id/bt_gallery"
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:text="Gallery"
+            android:drawableLeft="@drawable/ic_gallery"
+            ></Button>
+
+        <Button
+            android:id="@+id/bt_camera"
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:text="Camera"
+            android:drawableLeft="@drawable/ic_camera"
+        />
+
+    <Button
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:text="Help"
+            android:id="@+id/bt_help"
+            android:drawableLeft="@drawable/ic_help"
+             />
+
+</LinearLayout>
