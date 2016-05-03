@@ -38,8 +38,8 @@ This is the result
 <iframe width="350" height="490" src="https://www.youtube.com/embed/TSycNzdO8bY" frameborder="0" allowfullscreen></iframe>
 
 **Feature CampOCR**
-1. Image Processing OCR
-2. Get Image from Camera and From Gallery
-3. Crop Image
-4. Rotate Image
-5. Change Constrast and Brightness
+> - Image Processing OCR
+> - Get Image from Camera and From Gallery
+> - Crop Image
+> - Rotate Image
+> - Change Constrast and Brightness
