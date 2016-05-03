@@ -35,6 +35,8 @@ public class ImageProcessingOCR {
 
 ```
 This is the result
+
+
 [![Demo CampOCR](https://media.giphy.com/media/l0K45f3Oaxw7rmkgM/giphy.gif)](https://www.youtube.com/embed/TSycNzdO8bY)
 
 
